@@ -1,0 +1,174 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>A speech or declaration of the declared King of Scots upon the death of Montrosse the setting forth of a fleet by the Hollander, and two ships taken by the French, with the last intelligence out of Scotland. Also some excellent passages concerning the Lord Generall Cromwell, his entertainment at Windsor Castle, and the manner of his coming from thence to London, the first of June, 1650.</title>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1650</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 9 KB of XML-encoded text transcribed from 5 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2014-11">2014-11 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A93629</idno>
+            <idno type="STC">Wing S4867B</idno>
+            <idno type="STC">Thomason E602_22</idno>
+            <idno type="STC">ESTC R206426</idno>
+            <idno type="EEBO-CITATION">99865587</idno>
+            <idno type="PROQUEST">99865587</idno>
+            <idno type="VID">165642</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A93629)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 165642)</note>
+            <note>Images scanned from microfilm: (Thomason Tracts ; 92:E602[22])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>A speech or declaration of the declared King of Scots upon the death of Montrosse the setting forth of a fleet by the Hollander, and two ships taken by the French, with the last intelligence out of Scotland. Also some excellent passages concerning the Lord Generall Cromwell, his entertainment at Windsor Castle, and the manner of his coming from thence to London, the first of June, 1650.</title>
+                  <author>Charles II, King of England, 1630-1685.</author>
+               </titleStmt>
+               <extent>[2], 6 p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed for J.C. And are to be sold at the Royall-Exchange, and in the Old-Bayley,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1650.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Annotation on Thomason copy: "June 9".</note>
+                  <note>Reproduction of the original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Cromwell, Oliver, 1599-1658 --  Early works to 1800.</term>
+               <term>Scotland --  Politics and government --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2013-11</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2013-12</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2014-01</date>
+            <label>Kate Allen</label>Sampled and proofread</change>
+         <change>
+            <date>2014-01</date>
+            <label>Kate Allen</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2014-03</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:165642:1" rendition="simple:additions"/>
+            <p>A SPEECH OR DECLARATON OF THE Declared King of Scots UPON THE DEATH OF MONTROSSE THE SETTING Forth of a Fleet by the <hi>Hollander,</hi> And two Ships taken by the FRENCH, with the laſt <hi>Intelligence</hi> out of SCOTLAND.</p>
+            <p>ALSO Some excellent Paſſages concerning the Lord Generall <hi>Cromwell,</hi> his Entertainment at <hi>Windſor</hi> Caſtle, and the manner of his coming from thence to <hi>London,</hi> the firſt of <hi>June,</hi> 1650.</p>
+            <p>LONDON, <hi>Printed for</hi> J. C. <hi>And are to be ſold at the</hi> Royall-Exchange, <hi>and in the</hi> Old-Bayley, 1650.</p>
+         </div>
+      </front>
+      <body>
+         <div type="speech">
+            <pb facs="tcp:165642:2"/>
+            <pb n="1" facs="tcp:165642:2"/>
+            <head>The ſubſtance of the DECLARATION OF THE Declared King of Scots. Upon the Death of the MARQUES of MONTROSSE, THE Number of his Guard, and the ſet<g ref="char:EOLhyphen"/>ting out of a Fleet from HOLLAND, and another from SPAIN.</head>
+            <opener>
+               <salute>SIR,</salute>
+            </opener>
+            <p>HEre arived a Ship on <hi>Thurſday</hi> laſt, which came from St. <hi>Mallowes,</hi> by which we received Intelligence as followeth. The <hi>French</hi> Pyrats do daily much miſchief, not onely to the <hi>Engliſh,</hi> but alſo to the <hi>Hollander</hi> and <hi>Spaniard,</hi> and others which they light upon, they have lately taken two <hi>Marchants</hi> Ships belong<g ref="char:EOLhyphen"/>ing to <hi>Genua,</hi> and are become worſe Enemies to Trade then ever the <hi>Dunkerks</hi> were: wherefore the Marchants in the low Countries, are furniſhing out a Fleet of twenty
+<pb n="2" facs="tcp:165642:3"/>Sale to help to ſcoure the narrow Seas: the like we hear is intended by the <hi>Spaniſh</hi> and others, and it hath been long expected that our own Countreymen the Marchants of <hi>Lon<g ref="char:EOLhyphen"/>don,</hi> would [if poſſible] have had the honour of giving the firſt example in this kind.</p>
+            <p>From <hi>Scotland</hi> we are advertized, that the Cavalier party are extreamly dejected, and even ſtand amazed at the manner of putting <hi>Montroſſe</hi> to death, which they chiefly attribute to the leading cenſure of the <hi>Kirk;</hi> they ſay that a man deſerves ſome favour for humanity ſake, but that ſuch a man that for goodlineſs of perſon, and neat de<g ref="char:EOLhyphen"/>portment, is not to be paralleld in <hi>Scotland,</hi> ſhould be given up to Satan, and ſent ſuddenly to Hell, without lon<g ref="char:EOLhyphen"/>ger time of repentance, hath ſcarce been heard of, yet leaſt his temporal puniſhment ſhould not be ſo great in another world, as he was adjudged to deſerve in this: the tortures inflicted on him at his death, were more then ordinary, nei<g ref="char:EOLhyphen"/>ther after death could the Kirk with ſafety bleſs that part of his Karkeſs which was to be buried, and indeed what reaſon had they for it; for how knew they what he had eaten, or lay undigeſted in his ſtinking guts and garbage, unfit to be put in their holy conſecrated ground; yet for all this, the Clergy will be reconciled with their King, and ſay they will receive him into the boſome of the kirk; but why may not he fear the ſame ſentence with <hi>Montroſſe,</hi> if <hi>Montroſſe</hi> acted by his Commiſſion, and had not received any countermand. Notwithſtanding their declared King having received Letters, certifying that <hi>Montroſſe</hi> was dead, declared that he approved thereof, and being told by ſome that were about him, that he had loſt one of his beſt Servants; he re<g ref="char:EOLhyphen"/>plyed that he could not fetch him again, and if he ſhould ſhew any diſtaſt at what had paſt, it was in the power of the Parliament of <hi>Scotland,</hi> to make the Treaty null and void;
+<pb n="3" facs="tcp:165642:3"/>by which it appeares, that the life of him whoſe dependance was the ſtrength of his Princes aſsurance, is as ſoone loſt in his affection, as his miſcarriage happened in the action, his thoughts being mo<gap reason="illegible" resp="#MURP" extent="1 letter">
+                  <desc>•</desc>
+               </gap>e inlarged, and thereby can the ea<g ref="char:EOLhyphen"/>ſier overlook the firſt election, knowing that no further ſer<g ref="char:EOLhyphen"/>vice can be expected from that inſtrument, ſome think his coming into <hi>Scotland</hi> will be retarded, and its very impro<g ref="char:EOLhyphen"/>bable he ſhould be crowned in <hi>Scotland</hi> the <hi>29.</hi> of May, for ſome letters of the <hi>26.</hi> of that moneth ſay, that he was then at <hi>Breda,</hi> and had a Guard of about <hi>200.</hi> men attending his perſon; in the mean while, the Parliaments Army march this way with an intent [as we heare] to go farther North, they behave themſelves very civilly: inſomuch, that the Countrey people love them as Brethren, and honour their Commanders, as men moſt exquiſite in obſervation of good diſcipline, they take nothing but what is onely neceſ<g ref="char:EOLhyphen"/>ſary for their preſent ſuſtenance, and are willing to give money for it, and are careful not to give any juſt cauſe of offence, and are frugall in their expences, carrying them<g ref="char:EOLhyphen"/>ſelves as if they coveted no other recompence for their pains then for the glory of doing well. Great cauſe there<g ref="char:EOLhyphen"/>fore have the Countrey to reſpect ſuch men, which after the muſtering of thouſands of enemies are ſo well able to go<g ref="char:EOLhyphen"/>vern themſelves; whereas if the poor Countr<gap reason="illegible" resp="#MURP" extent="1 letter">
+                  <desc>•</desc>
+               </gap> ſhould be ne<g ref="char:EOLhyphen"/>ver ſo much injured, they can revenge themſelves no wayes but with teares, [and thoſe ſometimes prove bitter] but o<g ref="char:EOLhyphen"/>thers can do it by Armes.</p>
+            <closer>
+               <dateline>
+                  <hi>Newcaſtle</hi> 
+                  <date>the <hi>28. of May, 1650.</hi>
+                  </date>
+               </dateline>
+            </closer>
+         </div>
+         <div type="letter">
+            <pb n="4" facs="tcp:165642:4"/>
+            <head>A Letter from Windſor.</head>
+            <opener>
+               <salute>SIR,</salute>
+            </opener>
+            <p>THis day his Excellency the Lord Ge<g ref="char:EOLhyphen"/>nerall CROMWEL came to WINSOR, where he was entertained with many vollies of ſhot, his Lady alſo met him here, and many perſons of eminency, Members of Parliament, and of the Councel of State, and chief Officers of the Army; after much time ſpent in expreſsing civil reſpects one to ano<g ref="char:EOLhyphen"/>ther, and in congratulating his welcome thi<g ref="char:EOLhyphen"/>ther, they had ſome diſcourſe on the affaires of Ireland, and of the proſperous ſucceſs wherewith it hath pleaſed God to crown his undertakings. For the carrying on of which work in Ireland, there is Sir Hardres Waller, Collonel Venable, Sir Charles Coot, col. Hew<g ref="char:EOLhyphen"/>ſon, col. Hugh Peters, and many other faithful and deſerving Commanders, who both in Valour and Diſcipline, will truly imitate the
+<pb n="5" facs="tcp:165642:4"/>vertues of their General, till he return thither again. And this is it which all men ought to follow that they hear or ſee in others; for as a Learned Man ſaith, <hi>The race of Men are Men; but the race of Soules are Vertues, and Sanctity.</hi>
+            </p>
+            <p>The Generall had an indifferent good paſ<g ref="char:EOLhyphen"/>ſage from Ireland to Briſtol, and was not ſo Sea-ſick, as when he firſt went over thither from Briſtol to Windſor, he came with a ſmall retinue of his own Servants, and ſome few Gentlemen and Officers of the Army, he ſhews himſelf very affable, and courteous unto all, and as time will afford, admitteth a<g ref="char:EOLhyphen"/>ny man that hath buſineſs, to ſpeak with him.</p>
+            <p>This Evening came ſome part of Collonel Riches Regiment of Horſe, and moſt of the Innes in Town are full of gueſts, which come from London on purpoſe to attend him in his way to morrow. They tell us that a great number wil alſo meet him by the way, in his paſſage to London; but his Lordſhip expreſ<g ref="char:EOLhyphen"/>ſeth much humility, and when any Victory obtained is ſpoken of, he acknowledgeth God to be all in all, and ſaith, that that which <gap reason="illegible" resp="#MURP" extent="1 letter">
+                  <desc>•</desc>
+               </gap>s of God ſhall ſtand, but if it be not of God, <gap reason="illegible" resp="#MURP" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> will come to naught.</p>
+            <pb n="6" facs="tcp:165642:5"/>
+            <p>He alſo declareth, That it is not ſutable to his de<g ref="char:EOLhyphen"/>ſire, to come up to <hi>London</hi> in great Pomp and Glory, yet becauſe men would not be thought guilty of that abominable vice of ingratitude, and for that Worthy, deeds are not to be requited with neglect, it may be decent and ſeemly, for ſuch as are well-wiſhers to the common good, to teſtifie their affections this way, which may be done without oſtentation in the one, or aſcribing more then is due by the other.</p>
+            <closer>
+               <dateline>
+                  <date>
+                     <hi>June the</hi> 1. 1650.</date>
+               </dateline>
+            </closer>
+            <postscript>
+               <p>This Afternoon his Excellency the Lord <hi>Cromwell,</hi> came from <hi>Windſor</hi> to <hi>Weſtminſter,</hi> accompanied with many <hi>Lords,</hi> and moſt of the <hi>Members</hi> of <hi>Parliament,</hi> and <hi>Councel of State,</hi> the <hi>Officers</hi> of the <hi>Army,</hi> and many hundred well-affected <hi>Gentlemen</hi> and <hi>Citizens.</hi>
+               </p>
+            </postscript>
+         </div>
+         <trailer>FINIS.</trailer>
+      </body>
+   </text>
+</TEI>
